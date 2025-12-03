@@ -1,0 +1,16 @@
+# API Keeper - Required Dependencies
+# Core cryptography
+cryptography>=42.0.0
+
+# Command-line interface
+argparse
+
+# Database (built-in, included for clarity)
+# sqlite3 is built-in
+
+# Logging (built-in, included for clarity)
+# logging is built-in
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.0.0
