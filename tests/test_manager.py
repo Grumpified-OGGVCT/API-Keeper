@@ -211,7 +211,6 @@ class TestKeyManager:
         # since days_old (0) >= reminder_days (0)
         assert status['key_id'] == key_id
         assert status['is_due'] is True
-        assert status['key_id'] == key_id
 
 
 class TestScanning:

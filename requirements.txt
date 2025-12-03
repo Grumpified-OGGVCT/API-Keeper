@@ -2,9 +2,6 @@
 # Core cryptography
 cryptography>=42.0.0
 
-# Command-line interface
-argparse
-
 # Database (built-in, included for clarity)
 # sqlite3 is built-in
 
